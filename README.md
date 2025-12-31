@@ -1,4 +1,5 @@
 # 🔮 YesOrNo API
+<img width="2816" height="1536" alt="yesno" src="https://github.com/user-attachments/assets/76be329a-520b-4ef2-85d0-c49b77f2c8f7" />
 
 > A minimalist, pure decision-making API for your binary questions.
 
